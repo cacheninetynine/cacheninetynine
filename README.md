@@ -1,5 +1,5 @@
-i code and stuff i guess
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacheninetynine&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-u know when u play bowling and u get a strike it is really cool and u like yAY I GOT Strike 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacheninetynine&theme=merko&layout=compact)
 
-ya 
+stole this from kebab 238 lOL
